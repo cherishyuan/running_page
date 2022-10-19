@@ -2,17 +2,17 @@ module.exports = {
   pathPrefix: '/running_page', // Change to `/running_page` when running on github pages
   siteMetadata: {
     siteTitle: 'Running Page',
-    siteUrl: 'https://huaizhixu.github.io',
-    logo: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTtc69JxHNcmN1ETpMUX4dozAgAN6iPjWalQ&usqp=CAU',
+    siteUrl: 'https://cherishyuan.github.io',
+    logo: 'https://s2.loli.net/2022/06/27/lzP7adAGK5hDgNu.gif',
     description: 'Personal site and blog',
     navLinks: [
       {
         name: 'Blog',
-        url: 'https://huaizhixu.github.io',
+        url: 'https://cherishyuan.github.io',
       },
       {
         name: 'About',
-        url: 'https://huaizhixu.github.io',
+        url: 'https://github.com/cherishyuan',
       },
     ],
   },
